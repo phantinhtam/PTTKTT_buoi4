@@ -34,3 +34,19 @@ Mã này nhằm giải quyết bài toán "Knapsack Problem" bằng thuật toá
 
 Kết luận
 Chương trình này minh họa cách tiếp cận tham lam để giải quyết bài toán ba lô một cách hiệu quả và dễ hiểu. 
+
+
+
+KnapsackBarnchAndBound.cs
+
+1.Class Program
+
+![image](https://github.com/user-attachments/assets/e3568ff5-4fe4-410a-a9d3-ae44fdfbdd43)
+
+Main Method: Đây là phương thức chính của chương trình. Trong đó:
+Tạo một danh sách các vật phẩm với giá trị và trọng lượng tương ứng.
+Xác định khả năng chứa của ba lô (ở đây là 50).
+Gọi hàm KnapsackBranchAndBound để tính giá trị tối đa có thể chứa trong ba lô với danh sách vật phẩm đã cho.
+In giá trị tối đa lên màn hình.
+
+
